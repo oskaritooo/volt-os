@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/volt-logo.webp" width="240" alt="VOLT logo">
+</p>
+
 # VOLT
 
 **Local energy management for the home**
