@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/volt-logo.webp" width="240" alt="VOLT logo">
+  <img src="assets/logo%20(1).png" width="240" alt="VOLT logo">
 </p>
 
 # VOLT
