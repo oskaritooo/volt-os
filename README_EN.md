@@ -1,10 +1,12 @@
 <p align="center">
-  <img src="assets/logo%20(1).png" width="240" alt="VOLT logo">
+  <img src="assets/logo (1).png" width="240" alt="VOLT logo">
 </p>
 
 # VOLT
 
 **Local energy management for the home**
+
+**Project website:** https://volt-os.web.app/
 
 VOLT is a developing system that brings together information from solar power, heating, the electricity grid and household devices.
 
@@ -59,6 +61,8 @@ We are interested in working with:
 - investors and programmes supporting new energy solutions.
 
 We are particularly interested in device testing opportunities, access to integration documentation and real installations where further parts of the system can be verified.
+
+**Website:** https://volt-os.web.app/
 
 ## Source code
 
