@@ -1,3 +1,5 @@
+![VOLT — lokalne zarządzanie energią](assets/volt-banner-pl.webp)
+
 # VOLT
 
 **Lokalne zarządzanie energią w domu**
