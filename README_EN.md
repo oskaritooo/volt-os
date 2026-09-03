@@ -42,6 +42,23 @@ Current work includes:
 - tariffs and actual energy cost,
 - automatic decisions about how energy should be used.
 
+## Selected screens
+
+### Home energy overview
+![VOLT — home energy overview](assets/screens/home-overview.jpg)
+
+### Solar production
+![VOLT — solar production](assets/screens/pv-view.jpg)
+
+### Devices
+![VOLT — devices](assets/screens/devices-overview.jpg)
+
+### Device details
+![VOLT — device details](assets/screens/device-detail.jpg)
+
+### Market and tariff
+![VOLT — market and tariff](assets/screens/market-view.jpg)
+
 ## Project status
 
 VOLT is under active development and has not yet reached full production deployment. Individual parts are added and verified step by step using real equipment.
