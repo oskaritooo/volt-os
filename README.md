@@ -1,4 +1,4 @@
-![VOLT — lokalne zarządzanie energią](assets/volt-banner-pl.webp)
+![VOLT — lokalne zarządzanie energią](assets/baner.png)
 
 # VOLT
 
