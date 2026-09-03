@@ -4,6 +4,8 @@
 
 **Lokalne zarządzanie energią w domu**
 
+**Strona projektu:** https://volt-os.web.app/
+
 VOLT to rozwijany system, który łączy w jednym miejscu informacje z fotowoltaiki, ogrzewania, sieci energetycznej i urządzeń domowych.
 
 Celem projektu jest pokazanie użytkownikowi prostego obrazu tego, co dzieje się z energią w całym domu: ile energii jest produkowane, ile zużywane, ile kosztuje pobór z sieci i kiedy można wykorzystać energię lepiej.
@@ -57,6 +59,8 @@ Projekt jest otwarty na współpracę z:
 - inwestorami i programami wspierającymi rozwój nowych rozwiązań energetycznych.
 
 Szczególnie interesują nas możliwości testowania urządzeń, dostęp do dokumentacji integracyjnej oraz rzeczywiste instalacje, na których można sprawdzać kolejne elementy systemu.
+
+**WWW:** https://volt-os.web.app/
 
 ## Kod źródłowy
 
