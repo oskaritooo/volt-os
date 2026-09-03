@@ -40,6 +40,23 @@ Aktualny zakres prac obejmuje m.in.:
 - taryfy i rzeczywisty koszt energii,
 - automatyzację decyzji dotyczących wykorzystania energii.
 
+## Wybrane ekrany
+
+### Przegląd energii w domu
+![VOLT — przegląd energii](assets/screens/home-overview.jpg)
+
+### Fotowoltaika
+![VOLT — fotowoltaika](assets/screens/pv-view.jpg)
+
+### Urządzenia
+![VOLT — urządzenia](assets/screens/devices-overview.jpg)
+
+### Szczegóły urządzenia
+![VOLT — szczegóły urządzenia](assets/screens/device-detail.jpg)
+
+### Rynek i taryfa
+![VOLT — rynek i taryfa](assets/screens/market-view.jpg)
+
 ## Stan projektu
 
 VOLT jest aktywnie rozwijanym projektem przed pełnym wdrożeniem produkcyjnym. Poszczególne elementy są wdrażane i sprawdzane etapami na rzeczywistym sprzęcie.
@@ -60,7 +77,7 @@ Projekt jest otwarty na współpracę z:
 
 Szczególnie interesują nas możliwości testowania urządzeń, dostęp do dokumentacji integracyjnej oraz rzeczywiste instalacje, na których można sprawdzać kolejne elementy systemu.
 
-**WWW:** https://volt-os.web.app/
+**Zobacz działającą stronę projektu:** https://volt-os.web.app/
 
 ## Kod źródłowy
 
