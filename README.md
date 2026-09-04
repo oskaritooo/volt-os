@@ -43,19 +43,19 @@ Aktualny zakres prac obejmuje m.in.:
 ## Wybrane ekrany
 
 ### Przegląd energii w domu
-![VOLT — przegląd energii](assets/screens/home-overview.jpg)
+![VOLT — przegląd energii](assets/screen-home.jpg)
 
 ### Fotowoltaika
-![VOLT — fotowoltaika](assets/screens/pv-view.jpg)
+![VOLT — fotowoltaika](assets/screen-pv.jpg)
 
 ### Urządzenia
-![VOLT — urządzenia](assets/screens/devices-overview.jpg)
+![VOLT — urządzenia](assets/screen-devices.jpg)
 
 ### Szczegóły urządzenia
-![VOLT — szczegóły urządzenia](assets/screens/device-detail.jpg)
+![VOLT — szczegóły urządzenia](assets/screen-device-detail.jpg)
 
 ### Rynek i taryfa
-![VOLT — rynek i taryfa](assets/screens/market-view.jpg)
+![VOLT — rynek i taryfa](assets/screen-market.jpg)
 
 ## Stan projektu
 
