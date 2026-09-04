@@ -45,19 +45,19 @@ Current work includes:
 ## Selected screens
 
 ### Home energy overview
-![VOLT — home energy overview](assets/screens/home-overview.jpg)
+![VOLT — home energy overview](assets/screen-home.jpg)
 
 ### Solar production
-![VOLT — solar production](assets/screens/pv-view.jpg)
+![VOLT — solar production](assets/screen-pv.jpg)
 
 ### Devices
-![VOLT — devices](assets/screens/devices-overview.jpg)
+![VOLT — devices](assets/screen-devices.jpg)
 
 ### Device details
-![VOLT — device details](assets/screens/device-detail.jpg)
+![VOLT — device details](assets/screen-device-detail.jpg)
 
 ### Market and tariff
-![VOLT — market and tariff](assets/screens/market-view.jpg)
+![VOLT — market and tariff](assets/screen-market.jpg)
 
 ## Project status
 
