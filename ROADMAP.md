@@ -24,7 +24,9 @@ Dopiero po sprawdzeniu pełnego działania na obecnej instalacji projekt będzie
 
 ## Równolegle
 
-- poprawa prostoty i czytelności interfejsu,
+- poprawa prostoty i czytelności wspólnego interfejsu desktop/mobile,
+- uproszczenie dodawania urządzeń i rozszerzanie sprawdzonych integracji,
+- stabilizacja lokalnego odczytu, sterowania i potwierdzania stanu urządzeń,
 - rozwój analizy kosztów i taryf,
 - przygotowanie projektu do testów poza pierwszą instalacją,
 - współpraca z producentami, instalatorami i partnerami pilotażowymi.

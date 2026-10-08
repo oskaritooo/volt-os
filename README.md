@@ -4,11 +4,22 @@
 
 **Lokalne zarządzanie energią w domu**
 
-**Strona projektu:** https://volt-os.web.app/
+**Strona projektu:** [volt-os.web.app](https://volt-os.web.app/)
 
 VOLT to rozwijany system, który łączy w jednym miejscu informacje z fotowoltaiki, ogrzewania, sieci energetycznej i urządzeń domowych.
 
 Celem projektu jest pokazanie użytkownikowi prostego obrazu tego, co dzieje się z energią w całym domu: ile energii jest produkowane, ile zużywane, ile kosztuje pobór z sieci i kiedy można wykorzystać energię lepiej.
+
+## Aktualizacja: wspólny interfejs i sterowanie urządzeniami
+
+Publiczna aktualizacja z 28 września 2026 pokazuje wspólny interfejs desktop/mobile
+oraz odczyt i sterowanie wybranymi rzeczywistymi urządzeniami: gniazdkami,
+oświetleniem i urządzeniami działającymi przez bramkę. Testowane drogi komunikacji
+obejmują m.in. Tasmota, Matter i Zigbee.
+
+Rozwijamy proces „Dodaj do VOLT”, potwierdzanie stanu urządzeń i odporność
+na opóźnione odczyty. Następne prace obejmują upraszczanie dodawania sprzętu,
+rozszerzanie sprawdzonych integracji i łączenie kolejnych elementów domu.
 
 ## Co robi VOLT
 
@@ -42,20 +53,36 @@ Aktualny zakres prac obejmuje m.in.:
 
 ## Wybrane ekrany
 
-### Przegląd energii w domu
-![VOLT — przegląd energii](assets/screen-home.jpg)
+Poniższa galeria odpowiada obrazom opublikowanym na [stronie VOLT](https://volt-os.web.app/#aktualnosci).
+Została zsynchronizowana 8 października 2026 z publiczną aktualizacją z 28 września 2026.
 
-### Fotowoltaika
-![VOLT — fotowoltaika](assets/screen-pv.jpg)
+### Desktop
 
-### Urządzenia
-![VOLT — urządzenia](assets/screen-devices.jpg)
+#### Home — energia domu i wybrane urządzenia
+![VOLT — Home desktop](assets/screenshots/2026-09/home-desktop.png)
 
-### Szczegóły urządzenia
-![VOLT — szczegóły urządzenia](assets/screen-device-detail.jpg)
+#### Urządzenia — wspólny widok urządzeń w systemie
+![VOLT — Urządzenia desktop](assets/screenshots/2026-09/devices-desktop.png)
 
-### Rynek i taryfa
-![VOLT — rynek i taryfa](assets/screen-market.jpg)
+#### LIGHT / P3Z — lokalny odczyt i sterowanie lampą
+![VOLT — LIGHT / P3Z desktop](assets/screenshots/2026-09/p3z-desktop.png)
+
+#### Fotowoltaika — produkcja, historia i stan instalacji
+![VOLT — Fotowoltaika desktop](assets/screenshots/2026-09/fotowoltaika-desktop.png)
+
+#### DOM ↔ SIEĆ — przepływ energii i jawny status pomiaru
+![VOLT — DOM ↔ SIEĆ desktop](assets/screenshots/2026-09/dom-siec-desktop.png)
+
+#### Rynek — taryfa, stawka i koszty energii
+![VOLT — Rynek desktop](assets/screenshots/2026-09/rynek-desktop.png)
+
+### Mobile
+
+#### Home — ta sama aplikacja na telefonie
+<img src="assets/screenshots/2026-09/home-mobile.png" alt="VOLT — Home mobile" width="320">
+
+#### LIGHT / P3Z — sterowanie i odczyt na telefonie
+<img src="assets/screenshots/2026-09/p3z-mobile.png" alt="VOLT — LIGHT / P3Z mobile" width="320">
 
 ## Stan projektu
 
@@ -77,7 +104,7 @@ Projekt jest otwarty na współpracę z:
 
 Szczególnie interesują nas możliwości testowania urządzeń, dostęp do dokumentacji integracyjnej oraz rzeczywiste instalacje, na których można sprawdzać kolejne elementy systemu.
 
-**Zobacz działającą stronę projektu:** https://volt-os.web.app/
+**Zobacz działającą stronę projektu:** [VOLT](https://volt-os.web.app/)
 
 ## Kod źródłowy
 
